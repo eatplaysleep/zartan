@@ -1,5 +1,5 @@
 variable "org_name" { default = "expedia-oie"}
-variable "api_token" { default = "00tCVY7BepcVG5AQ3vhFFMW-eylbkemGvPqz2FlRNG" }
+variable "api_token" {}
 variable "base_url" { default = "dannyfuhriman.com"}
 variable "demo_app_name" { default = "developer" }
 variable "udp_subdomain" { default = "local" }
